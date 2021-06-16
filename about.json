@@ -11,16 +11,16 @@
   },
   "color_schemes": {
     "APEX": {
-      "primary": "2d2a3d", // Applies as solid color to Post Titles and to other text as a tint 
-      "secondary": "f4f4f9", // Applies to the background and .nav-pills>li a.active
-      "tertiary": "4f31cd", // Call to actions and links
-      "quaternary": "ffffff", // You can see it in the top menu
-      "header_background": "000000",
+      "primary": "000000", // Applies as solid color to Post Titles and to other text as a tint 
+      "secondary": "fffff", // Applies to the background and .nav-pills>li a.active
+      "tertiary": "1881f2", // Call to actions and links
+      "quaternary": "fcfc5", // You can see it in the top menu
+      "header_background": "33333",
       "header_primary": "ffffff", // It's the text and icons color in the header
-      "highlight": "8a51e7", // Applies to the title of the list of Time Periods in the "Top" tab of the main menu.
-      "danger": "ed2f2f",
+      "highlight": "f2e779", // Applies to the title of the list of Time Periods in the "Top" tab of the main menu.
+      "danger": "fe5c5c",
       "success": "14ba60",
-      "love": "fe5c5c"
+      "love": "ed2f2f"
     },
     "APEX-Light": {
       "primary": "2d2a3d", // Applies as solid color to Post Titles and to other text as a tint 
