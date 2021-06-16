@@ -1,5 +1,7 @@
-# Zeronoise
+# Discourse-Apex 
 ## A Modern Discourse Theme 
+
+This is a friendly fork of Zeronoise. 
 
 This is a CSS Only theme. 
 
