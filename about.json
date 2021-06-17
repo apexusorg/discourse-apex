@@ -12,7 +12,7 @@
   "color_schemes": {
     "APEX": {
       "primary": "000000", // Applies as solid color to Post Titles and to other text as a tint 
-      "secondary": "fffff", // Applies to the background and .nav-pills>li a.active
+      "secondary": "f6f6f6", // Applies to the background and .nav-pills>li a.active
       "tertiary": "1881f2", // Call to actions and links
       "quaternary": "fcfc5", // You can see it in the top menu
       "header_background": "33333",
