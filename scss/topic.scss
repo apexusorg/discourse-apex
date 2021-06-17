@@ -12,7 +12,7 @@
     border: none;
   }
   .row {
-    padding-top: 4rem;
+    padding-top: 0rem;
   }
 }
 .topic-post:first-child {
@@ -35,6 +35,10 @@
   .row {
     padding-top: 1rem;
   }
+}
+
+&.topic-body {
+  width: 0;
 }
 
 .topic-status-info {

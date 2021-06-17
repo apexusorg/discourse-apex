@@ -92,6 +92,9 @@ p {
   }
   &.posts {
     margin-bottom: 2rem;
+    &.row {
+      padding: 1.5rem; 
+    }
   }
   .user-content {
     border-radius: 0.5rem;
