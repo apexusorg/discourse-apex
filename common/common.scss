@@ -4,7 +4,7 @@
 
 // General
 .btn {
-  border-radius: 2rem;
+  border-radius: 1rem;
 }
 
 p {
@@ -289,6 +289,10 @@ ol.category-breadcrumb {
   .badge-contents .badge-info h3 {
     margin-bottom: 0;
   }
+}
+
+.badge-wrapper {
+  font-size: var(--font-0);
 }
 
 .user-stream {
