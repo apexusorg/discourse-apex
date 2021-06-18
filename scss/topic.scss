@@ -42,7 +42,7 @@
 }
 
 .topic-category {
-  margin-left: 3px;
+  margin-left: 0.75rem 3px;
   .bullet,
   .discourse-tags {
     padding: 0 1rem 0 0;
@@ -88,6 +88,7 @@ aside.onebox {
 }
 
 .topic-timeline {
+  margin-top: 1.5rem;
   font-size: 0.75rem;
   text-transform: uppercase;
   letter-spacing: 0.03em;
