@@ -51,6 +51,10 @@ p {
   }
 }
 
+.list-tags {
+  font-size: var(--font-0);
+}
+
 .list-controls {
   margin-bottom: 0;
   .nav,
@@ -101,6 +105,7 @@ p {
     padding: 2rem;
   }
 }
+
 
 .category-list .category-name {
   font-size: 1.2rem;
