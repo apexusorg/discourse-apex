@@ -96,7 +96,7 @@ p {
   }
   &.posts {
     margin-bottom: 2rem;
-    &.row {
+    & > .row {
       padding: 1.5rem; 
     }
   }
