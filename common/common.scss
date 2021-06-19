@@ -40,6 +40,10 @@ html:not(.mobile-view) .sidebar-reply-item>span.reply-date {
   padding-top: 1rem;
 }
 
+table.topic-list {
+  border: 0;
+}
+
 .nav-pills {
   & > li {
     margin-right: 0;
