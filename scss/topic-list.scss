@@ -22,12 +22,21 @@
     padding-bottom: 0.3em;
 }
 
+.navigation-controls .select-kit button {
+  height: auto;
+  padding: 0.5rem 1rem;
+}
+
 .topic-list-item {
   position: relative;
   .main-link:first-of-type {
     padding-left: 0rem;
   }
+  .views {
+    display: none;
+  }
   .posters {
+    display: none;
     &:before {
       content: "";
       display: inline-block;

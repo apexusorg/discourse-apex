@@ -19,6 +19,10 @@
   }
 }
 
+.sidebar {
+  width: 24%;
+}
+
 .wrap {
   max-width: 1150px;
 }
@@ -28,7 +32,7 @@
     font: var(--desktop-h1);
   }
   .title-wrapper {
-    padding: 1rem;
+    padding: 0 1rem;
   }
   h1 {
     padding: 1rem 0rem;
