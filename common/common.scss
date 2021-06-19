@@ -27,6 +27,11 @@ html:not(.mobile-view) .has-sidebar+.sidebar {
   width: 24%;
 }
 
+html:not(.mobile-view) .sidebar-reply-item>span.reply-date {
+  opacity: 0.5;
+  width: auto;
+}
+
 #main-outlet {
   padding-top: 1rem;
 }
