@@ -19,12 +19,8 @@
 
 .navigation-controls {
   display: block;
-  .btn {
-    padding-top: 0.3em;
-    padding-bottom: 0.3em;
-  }
-  .select-kit button {
-    height: auto;
+  button {
+    vertical-align: middle;
     padding: 0.5rem 1rem;
   }
 }
