@@ -27,6 +27,10 @@ html:not(.mobile-view) .has-sidebar+.sidebar {
   width: 24%;
 }
 
+html:not(.mobile-view) .list-container.has-sidebar {
+  width: 65%
+}
+
 html:not(.mobile-view) .sidebar-reply-item>span.reply-date {
   opacity: 0.5;
   width: auto;
