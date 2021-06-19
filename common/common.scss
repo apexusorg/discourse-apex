@@ -27,6 +27,10 @@ html:not(.mobile-view) .has-sidebar+.sidebar {
   width: 24%;
 }
 
+#main-outlet {
+  padding-top: 1rem;
+}
+
 .nav-pills {
   & > li {
     margin-right: 0;
@@ -69,9 +73,13 @@ html:not(.mobile-view) .has-sidebar+.sidebar {
   .btn {
     position: relative;
     background-color: $tertiary;
+    padding: 0.5rem 1rem
     color: var(--light-accent);
     .d-icon {
       color: currentColor;
+    }
+    .d-button-label {
+      font-size: var(--font-0);
     }
   }
   ol.category-breadcrumb {
@@ -331,6 +339,10 @@ ol.category-breadcrumb {
   .excerpt {
     font-size: 0.85rem;
   }
+}
+
+.list-controls .btn .d-button-label {
+  font-size: var(--font-0);
 }
 
 .footer-message {
