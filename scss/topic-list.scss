@@ -54,8 +54,9 @@
 .topic-list-item {
   position: relative;
   .main-link:first-of-type {
-    padding-left: 0rem;
+    padding-left: 1rem;
   }
+  border-bottom: 2px solid #CCC;
   .views {
     display: none;
   }
