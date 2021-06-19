@@ -178,10 +178,6 @@ ol.category-breadcrumb {
   align-items: center;
 }
 
-#create-topic {
-  @extend %btn--big;
-}
-
 .badge {
   &-category-bg,
   &-wrapper.bullet &-category-parent-bg,
