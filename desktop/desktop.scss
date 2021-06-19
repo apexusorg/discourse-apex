@@ -19,9 +19,16 @@
   }
 }
 
+.wrap {
+  max-width: 1150px;
+}
+
 #topic-title {
   .topic-statuses {
     font: var(--desktop-h1);
+  }
+  .title-wrapper {
+    padding: 1rem;
   }
   h1 {
     padding: 1rem 0rem;

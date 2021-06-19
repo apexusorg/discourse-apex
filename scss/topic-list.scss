@@ -17,10 +17,15 @@
   align-items: flex-end;
 }
 
+.navigation-controls .btn {
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
 .topic-list-item {
   position: relative;
   .main-link:first-of-type {
-    padding-left: 3rem;
+    padding-left: 0rem;
   }
   .posters {
     &:before {
