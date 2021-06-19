@@ -32,6 +32,21 @@
   }
 }
 
+.category-list {
+  thead {
+    display: none;
+  }
+}
+
+.topic-list {
+  thead {
+    display: none;
+  }
+  .posters {
+    display: none;
+  }
+}
+
 .topic-list-item {
   position: relative;
   .main-link:first-of-type {
