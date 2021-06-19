@@ -17,14 +17,16 @@
   align-items: flex-end;
 }
 
-.navigation-controls .btn {
+.navigation-controls {
+  display: block;
+  .btn {
     padding-top: 0.3em;
     padding-bottom: 0.3em;
-}
-
-.navigation-controls .select-kit button {
-  height: auto;
-  padding: 0.5rem 1rem;
+  }
+  .select-kit button {
+    height: auto;
+    padding: 0.5rem 1rem;
+  }
 }
 
 .topic-list-item {
