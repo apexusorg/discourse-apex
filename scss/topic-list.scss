@@ -51,10 +51,14 @@
   }
 }
 
+.topic-list th:last-of-type, .topic-list td:last-of-type {
+  padding-right: 0;
+}
+
 .topic-list-item {
   position: relative;
   .main-link:first-of-type {
-    padding-left: 1rem;
+    padding-left: 0.5rem;
   }
   border-bottom: 2px solid #CCC;
   .views {
@@ -93,7 +97,7 @@
     padding: 1rem 0.5rem;
   }
   tbody tr {
-    border-bottom: none;
+    border-bottom: 1px solid var(--primary-low);
     transition: background-color 1s;
     &:hover {
       transition: background-color 0.3s;
