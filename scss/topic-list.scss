@@ -102,7 +102,7 @@
   }
   a.title {
     font-weight: 600;
-    font-size: 1rem;
+    font-size: var(--font-0);
     font-family: var(--heading-font-family);
   }
   .suggested-topics & thead {
