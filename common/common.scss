@@ -46,6 +46,10 @@ table.topic-list {
 
 .categories-and-latest, .categories-and-top {
   flex-flow: column wrap;
+}
+
+.categories-and-latest div.column.categories, 
+.categories-and-top div.column.categories  {
   margin-right: 0;
 }
 
