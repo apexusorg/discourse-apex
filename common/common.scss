@@ -44,6 +44,15 @@ table.topic-list {
   border: 0;
 }
 
+.categories-and-latest, .categories-and-top {
+  flex-flow: column wrap;
+  margin-right: 0;
+}
+
+.top-topic-list .table-heading {
+  display: none; 
+}
+
 .nav-pills {
   & > li {
     margin-right: 0;
